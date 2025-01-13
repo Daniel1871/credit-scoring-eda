@@ -1,1 +1,1 @@
-# credit-scoring-eda
+# eda-credit-scoring
